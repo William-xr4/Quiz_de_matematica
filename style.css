@@ -6,5 +6,8 @@ body{
     float:none;
     padding:10px;
     border-radius:10px;
-    border: 10px double rgb(0, 102, 255);
+    border: 10px double rgb(0, 81, 255);
+}
+#h1{
+    color:rgb(0, 204, 255)!important;
 }
